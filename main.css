@@ -2,14 +2,14 @@
     h1 {color:black;}
     body {
       text-align: center;
-      background: url("file://localhost/Users/rosieafia/Desktop/Code%20First/Photos/World%20Background.jpeg");
+      background: url('file://localhost/Users/rosieafia/Desktop/Code%20First/Photos/background.jpg');
       background-size: cover;
       background-position: center;
       color: blue;
       font-family: helvetica;
     }
     p {
-      font-size: 22px;
+      font-size: 22px; color: black
     }
     input {
       border: 0;
@@ -20,4 +20,17 @@
       background: red;
       color: white;
     }
-    a 
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+	  color: red
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+	  html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
