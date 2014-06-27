@@ -1,0 +1,22 @@
+a{
+	font:12px Tahoma, "Times New Roman", Times, serif;
+	color: rgb(0,0,0);
+	text-decoration:underline;
+}
+td {font:12px Tahoma, "Times New Roman",Times, serif;
+}
+.txt{
+	padding: 3px 0px 0px 0px;
+}
+b {text-decoration: bold; color; 006660;}
+.logo {
+	font:22px Tahoma, "Times New Roman", Times, Serif;
+	color: rgb(0,0,0);
+	letter-spacing:.4em;
+}
+.smallhdr {
+	font:13px Tahoma, "Times New Roman", Times, serif;
+	color: rgb (0,0,0);
+	letter-spacing:.2em; 
+	font-weight: bold;
+}
