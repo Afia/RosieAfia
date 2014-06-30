@@ -1,6 +1,6 @@
 a {
 	font:10px Tahoma, "Times New Roman", Times, serif;
-	color: rgb(0,0,0);
+	color: rgb (0,0,0);
   font-style: italic;
 	text-decoration
 }
@@ -67,7 +67,7 @@ li {
   display: inline;
   padding: 0px 5px 0px 10px;
   article {margin:0 auto; 
-  max-width: 200px;padding:20px;
+  max-width: 200px; padding:20px;
 	}
 .twitter{
 
